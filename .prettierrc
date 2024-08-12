@@ -1,0 +1,9 @@
+{
+    "printWidth": 80,
+    "singleQuote": true,
+    "bracketSameLine": false,
+    "bracketSpacing": true,
+    "singleAttributePerLine": true,
+    "tabWidth": 2,
+    "experimentalTernaries": true
+  }
